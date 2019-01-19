@@ -3,7 +3,7 @@ import shutil
 
 folder = input('Enter the absolute filepath of the directory you wish to copy from: ')
 
-extension = input("Enter the extension you'd like to copy: ")
+extension = input("Enter the extension/file you'd like to copy: ")
 
 destination = input("Enter destination folder's absolute filepath: ")
 
